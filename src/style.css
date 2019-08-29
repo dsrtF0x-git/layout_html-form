@@ -3,10 +3,10 @@ label {
   margin-bottom: 10px;
 }
 
-fieldset {
+.field-block {
   margin-bottom: 20px;
 }
 
-fieldset > label:last-child {
+.field-block > label:last-child {
   margin-bottom: 0;
 }
