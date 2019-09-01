@@ -10,3 +10,7 @@ label {
 .field-block > label:last-child {
   margin-bottom: 0;
 }
+
+.radio-label {
+  display: inline;
+}
